@@ -1,2 +1,3 @@
 # python_hello_world-
-python study
+import Tk
+import numby
